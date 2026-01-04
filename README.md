@@ -1,7 +1,6 @@
-# FUTURE_ML_01
-#AI-POWERED SALES FORECASTING DASHBOARD
 
-TASK 1
+
+AI-POWERED SALES FORECASTING DASHBOARD
 
 🔹 Task: Build a dashboard that predicts future sales trends using
 historical data.
