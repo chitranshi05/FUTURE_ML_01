@@ -1,6 +1,4 @@
-
-
-AI-POWERED SALES FORECASTING DASHBOARD
+#AI-POWERED SALES FORECASTING DASHBOARD
 
 🔹 Task: Build a dashboard that predicts future sales trends using
 historical data.
